@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+python-dotenv
+pdfplumber
+chardet
+plotly 
